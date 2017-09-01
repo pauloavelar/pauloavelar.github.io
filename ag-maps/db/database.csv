@@ -1,0 +1,301 @@
+Equipment Type,Brand,Model,Serial Number,Company,Location,LAT,LON
+PLN,Almaco,HPP,P881549,Random Company D,"Sao Paulo, SP",-23.54066,-46.623909
+Combine,WinterSteiger,Classsic,C959845,Random Company B,"Sao Paulo, SP",-23.54596,-46.624949
+APL,Almaco,R12,A955056,Random Company B,"Sao Paulo, SP",-23.54886,-46.623669
+Thresher,Almaco,SES,T601248,Random Company F,"Sao Paulo, SP",-23.54647,-46.632489
+Combine,WinterSteiger,Classsic,C081697,Random Company D,"Sao Paulo, SP",-23.5438,-46.627619
+Planter,HEGE,HEGE,P361583,Random Company E,"Sao Paulo, SP",-23.54549,-46.630949
+Combine,Mecamáquina,CR5080,C727146,Random Company J,"Sao Paulo, SP",-23.55036,-46.626939
+Planter,Semeato,4CPP,P777779,Random Company D,"Cascavel, PR",-24.946091,-53.455708
+Thresher,Almaco,SES,T479041,Random Company D,"Sao Paulo, SP",-23.5441,-46.631659
+APL,Almaco,SEEDBOSS,A038993,Random Company J,"Sao Paulo, SP",-23.54762,-46.628009
+Thresher,Almaco,SES,T557987,Random Company E,"Rio Verde, GO",-17.803828,-50.915524
+PLN,Almaco,HPP,P601773,Random Company H,"Rio Verde, GO",-17.809968,-50.921714
+Thresher,Almaco,SES,T763326,Random Company I,"Rio Verde, GO",-17.803698,-50.922154
+Thresher,Almaco,SBT,T238350,Random Company F,"Cascavel, PR",-24.949321,-53.456148
+Combine,WinterSteiger,Classsic,C190302,Random Company A,"Campo Mourao, PR",-24.040146,-52.372036
+Combine,Mecamáquina,CR5080,C879913,Random Company J,"Londrina, PR",-23.310375,-51.148866
+Combine,Mecamáquina,CR5080,C909699,Random Company I,"Londrina, PR",-23.301505,-51.153006
+Planter,Almaco,HDGD,P067631,Random Company G,"Sorriso, MT",-12.56741,-55.716139
+Thresher,Almaco,SBT,T555178,Random Company F,"Jardinopolis, SP",-21.017218,-47.783832
+PLN,Almaco,HPP,P251791,Random Company G,"Jardinopolis, SP",-21.011078,-47.789782
+Planter,HEGE,HEGE,P168760,Random Company I,"Jardinopolis, SP",-21.012728,-47.786392
+Planter,Semeato,4CPP,P816497,Random Company E,"Jardinopolis, SP",-21.008508,-47.786842
+Planter,HEGE,HEGE,P111772,Random Company J,"Jardinopolis, SP",-21.010258,-47.790272
+Thresher,Almaco,SES,T462587,Random Company A,"Sorriso, MT",-12.56756,-55.719989
+Thresher,Almaco,SES,T676365,Random Company J,"Sorriso, MT",-12.56161,-55.725379
+Planter,Almaco,HDGD,P511340,Random Company F,"Guarapauva, PR",-25.367216,-51.481961
+PLN,Almaco,HPP,P458821,Random Company A,"Guarapauva, PR",-25.368516,-51.489711
+Thresher,Almaco,ECS,T376939,Random Company H,"Planaltina, DF",-15.617428,-47.651503
+Planter,Almaco,HDGD,P311294,Random Company D,"Sorriso, MT",-12.5686,-55.722059
+Thresher,Almaco,SBT,T666411,Random Company A,"Sorriso, MT",-12.562,-55.716549
+APL,Almaco,SEEDBOSS,A413422,Random Company G,"Toledo, PR",-24.724216,-53.731198
+Thresher,Almaco,SBT,T297057,Random Company I,"Guarapauva, PR",-25.361436,-51.487631
+Thresher,Almaco,ECS,T248091,Random Company J,"Guarapauva, PR",-25.363806,-51.482261
+Combine,WinterSteiger,Classsic,C949942,Random Company C,"Sorriso, MT",-12.56804,-55.724259
+APL,Almaco,SEEDBOSS,A944349,Random Company A,"Guarapauva, PR",-25.361676,-51.489541
+Combine,Almaco,SPC40,C175456,Random Company A,"Sorriso, MT",-12.56695,-55.725179
+Combine,Mecamáquina,CR5080,C340370,Random Company C,"Guarapauva, PR",-25.362376,-51.488941
+Planter,Almaco,HDGD,P870929,Random Company C,"Palmas, TO",-10.251613,-48.317475
+Planter,Almaco,HDGD,P604854,Random Company D,"Brasilia, DF",-15.785179,-47.877986
+Thresher,Almaco,ECS,T571626,Random Company G,"Sorriso, MT",-12.5608,-55.723389
+PLN,Almaco,HPP,P673991,Random Company G,"Brasilia, DF",-15.792359,-47.875776
+APL,Almaco,R12,A244446,Random Company I,"Porto Nacional, TO",-10.70283,-48.405253
+Planter,HEGE,HEGE,P413290,Random Company B,"Sao Paulo, SP",-23.54156,-46.623509
+APL,Almaco,SEEDBOSS,A542127,Random Company G,"Ponta Grossa, PR",-25.034025,-50.14237
+Planter,HEGE,HEGE,P890439,Random Company A,"Rondopolis, MT",-16.471523,-54.631987
+APL,Almaco,R12,A704226,Random Company A,"Rondopolis, MT",-16.469423,-54.637577
+Planter,HEGE,HEGE,P120675,Random Company D,"Rondopolis, MT",-16.464423,-54.636067
+Planter,Almaco,HDGD,P374827,Random Company I,"Rondopolis, MT",-16.471173,-54.630507
+PLN,Almaco,HPP,P002823,Random Company C,"Rondopolis, MT",-16.465403,-54.633757
+Planter,Semeato,4CPP,P117643,Random Company A,"Rondopolis, MT",-16.470383,-54.629357
+Planter,HEGE,HEGE,P703226,Random Company E,"Rondopolis, MT",-16.468823,-54.628247
+Thresher,Almaco,ECS,T104835,Random Company C,"Rondopolis, MT",-16.465513,-54.635437
+Planter,Semeato,4CPP,P892359,Random Company G,"Rondopolis, MT",-16.468573,-54.632487
+Planter,Almaco,HDGD,P939448,Random Company C,"Uberlandia, MG",-18.939099,-48.154576
+Planter,Almaco,HDGD,P511263,Random Company B,"Uberlandia, MG",-18.945839,-48.149316
+APL,Almaco,R12,A102884,Random Company I,"Uberlandia, MG",-18.941699,-48.151966
+Thresher,Almaco,ECS,T287434,Random Company G,"Uberlandia, MG",-18.943119,-48.153026
+Combine,Mecamáquina,CR5080,C562998,Random Company C,"Uberlandia, MG",-18.941249,-48.146326
+Thresher,Almaco,SES,T820203,Random Company D,"Uberlandia, MG",-18.937489,-48.150656
+Combine,Mecamáquina,CR5080,C704157,Random Company H,"Uberlandia, MG",-18.944239,-48.149416
+Combine,Almaco,SPC40,C280173,Random Company D,"Uberlandia, MG",-18.944199,-48.153586
+Planter,HEGE,HEGE,P350819,Random Company H,"Uberlandia, MG",-18.939559,-48.151636
+Thresher,Almaco,SES,T341747,Random Company H,"Uberlandia, MG",-18.943039,-48.152656
+Planter,Almaco,HDGD,P946889,Random Company C,"Uberlandia, MG",-18.944529,-48.151296
+Combine,WinterSteiger,Classsic,C799156,Random Company B,"Rolandia, PR",-23.301083,-51.361104
+Planter,Almaco,HDGD,P202901,Random Company J,"Rolandia, PR",-23.303023,-51.365064
+Combine,WinterSteiger,Classsic,C730810,Random Company D,"Rolandia, PR",-23.300363,-51.363544
+Thresher,Almaco,SES,T116529,Random Company I,"Rolandia, PR",-23.303553,-51.360774
+Combine,Mecamáquina,CR5080,C328074,Random Company C,"Rolandia, PR",-23.303893,-51.356344
+Thresher,Almaco,SBT,T423298,Random Company B,"Rolandia, PR",-23.303663,-51.363814
+PLN,Almaco,HPP,P046704,Random Company G,"Rolandia, PR",-23.303163,-51.361214
+Thresher,Almaco,SES,T816653,Random Company J,"Coxilha, RS",-28.13031,-52.351612
+Thresher,Almaco,SES,T572451,Random Company E,"Coxilha, RS",-28.129,-52.348492
+Planter,Almaco,HDGD,P144230,Random Company J,"Barretos, SP",-20.547765,-48.567759
+Thresher,Almaco,SBT,T792789,Random Company D,"Uberlandia, MG",-18.942859,-48.154186
+APL,Almaco,SEEDBOSS,A163646,Random Company G,"Rolandia, PR",-23.307443,-51.356934
+Planter,Semeato,4CPP,P928962,Random Company B,"Rolandia, PR",-23.305123,-51.360454
+Planter,Semeato,4CPP,P880032,Random Company D,"Uberlandia, MG",-18.945969,-48.148956
+Combine,Almaco,SPC40,C462846,Random Company A,"Sao Paulo, SP",-23.54971,-46.629969
+PLN,Almaco,HPP,P792402,Random Company F,"Rolandia, PR",-23.300503,-51.365364
+Thresher,Almaco,SES,T857439,Random Company B,"Uberlandia, MG",-18.943539,-48.148516
+Thresher,Almaco,SES,T212049,Random Company F,"Rolandia, PR",-23.298243,-51.358464
+PLN,Almaco,HPP,P104569,Random Company G,"Sao Paulo, SP",-23.54783,-46.633049
+Planter,Semeato,4CPP,P749674,Random Company G,"Uberlandia, MG",-18.942079,-48.146566
+Combine,Almaco,SPC40,C809011,Random Company D,"Uberlandia, MG",-18.943169,-48.152296
+PLN,Almaco,HPP,P504971,Random Company A,"Uberlandia, MG",-18.943289,-48.150906
+Planter,Almaco,HDGD,P105632,Random Company J,"Morrinhos, GO",-17.727439,-49.113684
+PLN,Almaco,HPP,P609159,Random Company C,"Morrinhos, GO",-17.725469,-49.107104
+Combine,Mecamáquina,CR5080,C236447,Random Company F,"Morrinhos, GO",-17.720759,-49.110224
+Thresher,Almaco,ECS,T078238,Random Company C,"Nao Me Toque, RS",-28.453869,-52.842114
+Combine,Almaco,SPC40,C323122,Random Company E,"Morrinhos, GO",-17.721609,-49.114324
+APL,Almaco,R12,A117759,Random Company C,"Morrinhos, GO",-17.724609,-49.112664
+Thresher,Almaco,SBT,T076067,Random Company B,"Morrinhos, GO",-17.721679,-49.107834
+Planter,Almaco,HDGD,P159654,Random Company A,"Morrinhos, GO",-17.722949,-49.107204
+Combine,Mecamáquina,CR5080,C652869,Random Company I,"Rio Verde, GO",-17.810328,-50.921094
+Planter,HEGE,HEGE,P491984,Random Company A,"Brasilia, DF",-15.787299,-47.873446
+Planter,Almaco,HDGD,P179385,Random Company J,"Brasilia, DF",-15.793539,-47.875856
+APL,Almaco,R12,A024964,Random Company D,"Brasilia, DF",-15.788189,-47.873886
+Combine,WinterSteiger,Classsic,C021456,Random Company F,"Brasilia, DF",-15.785709,-47.882136
+APL,Almaco,SEEDBOSS,A281022,Random Company I,"Brasilia, DF",-15.787099,-47.879606
+APL,Almaco,SEEDBOSS,A824095,Random Company J,"Brasilia, DF",-15.793309,-47.879286
+Thresher,Almaco,SES,T910552,Random Company D,"Sorriso, MT",-12.56288,-55.723229
+Planter,HEGE,HEGE,P801437,Random Company A,"Passo Fundo, RS",-28.186504,-52.319888
+PLN,Almaco,HPP,P550239,Random Company G,"Passo Fundo, RS",-28.182834,-52.321438
+APL,Almaco,SEEDBOSS,A739585,Random Company D,"Passo Fundo, RS",-28.179024,-52.318608
+Planter,Semeato,4CPP,P627773,Random Company F,"Passo Fundo, RS",-28.178534,-52.315088
+Planter,HEGE,HEGE,P005190,Random Company G,"Passo Fundo, RS",-28.179874,-52.319728
+Thresher,Almaco,SES,T133540,Random Company E,"Sorriso, MT",-12.56843,-55.717329
+Planter,HEGE,HEGE,P891270,Random Company C,"Brasilia, DF",-15.793949,-47.875706
+Combine,WinterSteiger,Classsic,C181432,Random Company D,"Brasilia, DF",-15.789569,-47.881016
+Thresher,Almaco,SES,T069516,Random Company B,"Santa Cruz, RS",-29.711514,-52.435861
+PLN,Almaco,HPP,P571205,Random Company C,"Alto Gracas, MT",-16.839999,-53.830559
+Thresher,Almaco,SBT,T615218,Random Company D,"Alto Gracas, MT",-16.835069,-53.831299
+Combine,WinterSteiger,Classsic,C465313,Random Company B,"Alto Gracas, MT",-16.835809,-53.829099
+Thresher,Almaco,ECS,T234274,Random Company D,"Lucas do Rio Verde, MT",-13.059809,-55.91144
+Thresher,Almaco,SBT,T553786,Random Company B,"Lucas do Rio Verde, MT",-13.059169,-55.91387
+Combine,Almaco,SPC40,C403048,Random Company B,"Lucas do Rio Verde, MT",-13.056549,-55.91298
+Thresher,Almaco,SES,T230030,Random Company J,"Lucas do Rio Verde, MT",-13.059409,-55.91117
+Combine,Mecamáquina,CR5080,C852912,Random Company E,"Lucas do Rio Verde, MT",-13.060529,-55.90967
+PLN,Almaco,HPP,P658861,Random Company J,"Lucas do Rio Verde, MT",-13.058349,-55.91435
+Combine,Mecamáquina,CR5080,C980927,Random Company E,"Cascavel, PR",-24.950431,-53.455258
+Planter,Semeato,4CPP,P751132,Random Company C,"Brasilia, DF",-15.790779,-47.881246
+Thresher,Almaco,SBT,T471556,Random Company H,"Cambre, PR",-23.273829,-51.290551
+Combine,Almaco,SPC40,C733182,Random Company B,"Cambre, PR",-23.266969,-51.283121
+Planter,HEGE,HEGE,P954798,Random Company F,"Porto Nacional, TO",-10.7049,-48.406283
+APL,Almaco,R12,A398716,Random Company F,"Sinop, MT",-11.857694,-55.507555
+Planter,Semeato,4CPP,P039209,Random Company E,"Rio Verde, GO",-17.811708,-50.915774
+APL,Almaco,SEEDBOSS,A510182,Random Company G,"Sao Paulo, SP",-23.54148,-46.625689
+Planter,Semeato,4CPP,P277052,Random Company J,"Sao Paulo, SP",-23.54574,-46.625249
+Thresher,Almaco,SBT,T524668,Random Company G,"Sao Paulo, SP",-23.54334,-46.630149
+Planter,HEGE,HEGE,P428119,Random Company G,"Sao Paulo, SP",-23.54684,-46.628469
+Planter,Semeato,4CPP,P188501,Random Company I,"Sao Paulo, SP",-23.54726,-46.623909
+Thresher,Almaco,SES,T610210,Random Company B,"Sao Paulo, SP",-23.5488,-46.629829
+Planter,HEGE,HEGE,P273526,Random Company J,"Campo Mourao, PR",-24.036706,-52.376556
+Planter,Almaco,HDGD,P292306,Random Company G,"Toledo, PR",-24.731276,-53.731388
+Planter,Semeato,4CPP,P495578,Random Company B,"Sorriso, MT",-12.56651,-55.723769
+Thresher,Almaco,ECS,T329785,Random Company G,"Passo Fundo, RS",-28.184164,-52.318038
+Combine,WinterSteiger,Classsic,C988516,Random Company H,"Londrina, PR",-23.305265,-51.152236
+Thresher,Almaco,ECS,T866799,Random Company H,"Londrina, PR",-23.307495,-51.151666
+Thresher,Almaco,SBT,T823231,Random Company F,"Londrina, PR",-23.310325,-51.151956
+Planter,HEGE,HEGE,P827178,Random Company C,"Londrina, PR",-23.309755,-51.149176
+Combine,Almaco,SPC40,C532689,Random Company B,"Londrina, PR",-23.309615,-51.152026
+APL,Almaco,SEEDBOSS,A519053,Random Company I,"Londrina, PR",-23.308055,-51.149696
+Combine,Almaco,SPC40,C683360,Random Company C,"Londrina, PR",-23.309235,-51.155166
+Thresher,Almaco,SBT,T246035,Random Company B,"Londrina, PR",-23.302565,-51.150716
+APL,Almaco,SEEDBOSS,A901655,Random Company E,"Sorriso, MT",-12.424545,-55.632471
+Combine,Mecamáquina,CR5080,C363643,Random Company D,"Sorriso, MT",-12.418225,-55.639821
+APL,Almaco,SEEDBOSS,A897881,Random Company I,"Sorriso, MT",-12.424135,-55.634811
+Combine,Mecamáquina,CR5080,C580954,Random Company H,"Sorriso, MT",-12.418905,-55.630741
+APL,Almaco,R12,A979264,Random Company G,"Sorriso, MT",-12.419115,-55.631381
+Planter,Semeato,4CPP,P265063,Random Company A,"Sorriso, MT",-12.422285,-55.636901
+Combine,Almaco,SPC40,C315161,Random Company D,"Santo Antonio de Posse, SP",-22.601558,-46.974576
+Thresher,Almaco,SBT,T825295,Random Company C,"Santo Antonio de Posse, SP",-22.599858,-46.974746
+Combine,Mecamáquina,CR5080,C252378,Random Company D,"Santo Antonio de Posse, SP",-22.592428,-46.978876
+Thresher,Almaco,SES,T100441,Random Company I,"Santo Antonio de Posse, SP",-22.600268,-46.978666
+PLN,Almaco,HPP,P368368,Random Company B,"Santo Antonio de Posse, SP",-22.597268,-46.979216
+APL,Almaco,R12,A503581,Random Company H,"Santo Antonio de Posse, SP",-22.596658,-46.976726
+Planter,Semeato,4CPP,P804910,Random Company G,"Santo Antonio de Posse, SP",-22.593258,-46.977506
+Combine,WinterSteiger,Classsic,C687252,Random Company F,"Santo Antonio de Posse, SP",-22.598208,-46.974026
+APL,Almaco,SEEDBOSS,A887823,Random Company I,"Sorriso, MT",-12.56129,-55.723989
+Combine,WinterSteiger,Classsic,C657690,Random Company G,"Sorriso, MT",-12.56369,-55.721009
+APL,Almaco,SEEDBOSS,A884146,Random Company H,"Realeza, PR",-25.676623,-53.537958
+Thresher,Almaco,ECS,T419586,Random Company J,"Realeza, PR",-25.675633,-53.534958
+Combine,Mecamáquina,CR5080,C804108,Random Company I,"Realeza, PR",-25.677193,-53.539658
+Thresher,Almaco,SES,T616516,Random Company I,"Rio Verde, GO",-17.803108,-50.923324
+Planter,HEGE,HEGE,P629140,Random Company B,"Rio Verde, GO",-17.807068,-50.922124
+Planter,HEGE,HEGE,P825390,Random Company G,"Rio Verde, GO",-17.808388,-50.913614
+Combine,Mecamáquina,CR5080,C809644,Random Company F,"Sorriso, MT",-12.56421,-55.720499
+Thresher,Almaco,ECS,T632497,Random Company B,"Sorriso, MT",-12.56598,-55.719539
+Combine,Almaco,SPC40,C671098,Random Company C,"Realeza, PR",-25.672833,-53.540328
+Combine,WinterSteiger,Classsic,C468961,Random Company G,"Realeza, PR",-25.678113,-53.534958
+Combine,Almaco,SPC40,C819863,Random Company E,"Rio Verde, GO",-17.811018,-50.917954
+Thresher,Almaco,SBT,T790018,Random Company D,"Rio Verde, GO",-17.804978,-50.920344
+Planter,Semeato,4CPP,P696717,Random Company J,"Sorriso, MT",-12.56579,-55.720569
+Thresher,Almaco,SES,T557547,Random Company B,"Sorriso, MT",-12.56577,-55.717789
+Thresher,Almaco,ECS,T290306,Random Company F,"Sorriso, MT",-12.5638,-55.719069
+APL,Almaco,R12,A822953,Random Company H,"Sorriso, MT",-12.56556,-55.716159
+Planter,Semeato,4CPP,P424140,Random Company J,"Sorriso, MT",-12.56926,-55.721009
+APL,Almaco,R12,A237393,Random Company B,"Realeza, PR",-25.678513,-53.533648
+Thresher,Almaco,SES,T423419,Random Company A,"Realeza, PR",-25.672073,-53.541448
+APL,Almaco,R12,A344679,Random Company E,"Realeza, PR",-25.679173,-53.541758
+APL,Almaco,R12,A583163,Random Company F,"Realeza, PR",-25.676923,-53.532868
+PLN,Almaco,HPP,P842778,Random Company A,"Realeza, PR",-25.670223,-53.537258
+APL,Almaco,R12,A845615,Random Company H,"Rio Verde, GO",-17.810148,-50.918194
+Thresher,Almaco,SBT,T038573,Random Company F,"Rio Verde, GO",-17.810678,-50.919524
+Planter,Almaco,HDGD,P729222,Random Company J,"Rio Verde, GO",-17.802598,-50.920544
+Thresher,Almaco,SES,T626791,Random Company F,"Rio Verde, GO",-17.810818,-50.917654
+Thresher,Almaco,SES,T487336,Random Company A,"Rio Verde, GO",-17.804978,-50.916864
+Planter,Almaco,HDGD,P174944,Random Company F,"Londrina, PR",-23.305755,-51.145956
+Planter,Almaco,HDGD,P708777,Random Company A,"Londrina, PR",-23.301955,-51.145906
+Combine,Almaco,SPC40,C480946,Random Company B,"Londrina, PR",-23.301275,-51.145376
+Thresher,Almaco,SES,T591128,Random Company A,"Londrina, PR",-23.310015,-51.148236
+Combine,Almaco,SPC40,C749768,Random Company I,"Cascavel, PR",-24.955081,-53.451528
+Combine,Mecamáquina,CR5080,C560950,Random Company J,"Cascavel, PR",-24.945951,-53.453708
+PLN,Almaco,HPP,P449392,Random Company B,"Uberlandia, MG",-18.929022,-48.174241
+PLN,Almaco,HPP,P361804,Random Company C,"Lucas do Rio Verde, MT",-13.059599,-55.91267
+PLN,Almaco,HPP,P728104,Random Company F,"Uberlandia, MG",-18.932582,-48.173061
+Planter,Semeato,4CPP,P211655,Random Company D,"Rio Verde, GO",-17.808108,-50.917084
+Combine,WinterSteiger,Classsic,C549947,Random Company C,"Cascavel, PR",-24.952041,-53.451148
+APL,Almaco,SEEDBOSS,A742144,Random Company B,"Cascavel, PR",-24.947191,-53.455518
+Thresher,Almaco,ECS,T637220,Random Company J,"Cascavel, PR",-24.955841,-53.450868
+APL,Almaco,SEEDBOSS,A053549,Random Company I,"Cascavel, PR",-24.953211,-53.454188
+PLN,Almaco,HPP,P244851,Random Company H,"Rio Verde, GO",-17.806928,-50.918854
+PLN,Almaco,HPP,P794718,Random Company H,VILLA DE COS,23.292797,-102.347619
+Planter,Semeato,4CPP,P259776,Random Company H,CALIMAYA,19.0499,-99.515188
+Combine,Almaco,SPC40,C667589,Random Company H,MUNRO,-34.52539,-58.518822
+Planter,HEGE,HEGE,P618696,Random Company G,MUNRO,-34.52502,-58.520962
+Planter,Semeato,4CPP,P667824,Random Company G,"Sao Paulo, SP",-23.54953,-46.623849
+Thresher,Almaco,SES,T543080,Random Company I,HERMOSILLO,29.058905,-110.924055
+Planter,Almaco,HDGD,P237251,Random Company F,HERMOSILLO,29.054315,-110.921635
+Thresher,Almaco,SBT,T448935,Random Company D,HERMOSILLO,29.063865,-110.921155
+Thresher,Almaco,SES,T163611,Random Company F,HERMOSILLO,29.059155,-110.921345
+PLN,Almaco,HPP,P017739,Random Company B,HERMOSILLO,29.062015,-110.919705
+Combine,WinterSteiger,Classsic,C279064,Random Company D,"Londrina, PR",-23.306245,-51.147086
+Thresher,Almaco,SBT,T004357,Random Company G,"Londrina, PR",-23.310195,-51.148316
+Thresher,Almaco,ECS,T748191,Random Company G,"Londrina, PR",-23.302895,-51.148876
+Thresher,Almaco,ECS,T525494,Random Company C,"Londrina, PR",-23.306715,-51.148396
+Planter,Almaco,HDGD,P157982,Random Company A,"Londrina, PR",-23.309685,-51.153486
+Thresher,Almaco,ECS,T068936,Random Company A,"Londrina, PR",-23.304495,-51.149016
+Planter,Almaco,HDGD,P749455,Random Company E,"Londrina, PR",-23.310175,-51.153726
+PLN,Almaco,HPP,P837061,Random Company H,TLAJOMULCO DE ZUNIGA,20.536018,-103.477101
+Planter,Almaco,HDGD,P991786,Random Company B,"Rondopolis, MT",-16.465713,-54.633757
+APL,Almaco,R12,A309737,Random Company C,CAMBE,-23.268169,-51.284231
+Planter,Semeato,4CPP,P308592,Random Company H,CAMBE,-23.273079,-51.285831
+PLN,Almaco,HPP,P179394,Random Company F,PERGAMINO,-33.87318,-60.565469
+Thresher,Almaco,SBT,T186975,Random Company A,PERGAMINO,-33.87639,-60.564189
+Combine,Mecamáquina,CR5080,C965088,Random Company C,PERGAMINO,-33.87487,-60.558869
+APL,Almaco,R12,A023035,Random Company D,RANCAGUA,-32.74496,-70.713808
+Thresher,Almaco,ECS,T880393,Random Company E,RANCAGUA,-32.74618,-70.716448
+Planter,Semeato,4CPP,P840286,Random Company A,RANCAGUA,-32.73947,-70.716058
+Combine,WinterSteiger,Classsic,C115539,Random Company H,DEL. ALVARO OBREGON,18.868258,-98.913283
+Thresher,Almaco,SES,T037386,Random Company F,DEL. ALVARO OBREGON,18.864298,-98.911113
+APL,Almaco,SEEDBOSS,A150699,Random Company D,DEL. ALVARO OBREGON,18.862648,-98.910583
+Planter,Almaco,HDGD,P676756,Random Company E,DEL. ALVARO OBREGON,18.865968,-98.910463
+APL,Almaco,SEEDBOSS,A729117,Random Company D,DEL. ALVARO OBREGON,18.863098,-98.910883
+Planter,Semeato,4CPP,P363193,Random Company C,DEL. ALVARO OBREGON,18.864858,-98.913633
+Combine,Almaco,SPC40,C544619,Random Company H,DEL. ALVARO OBREGON,18.869168,-98.905713
+Combine,Mecamáquina,CR5080,C992400,Random Company F,DEL. ALVARO OBREGON,18.864238,-98.905733
+Combine,WinterSteiger,Classsic,C067456,Random Company J,DEL. ALVARO OBREGON,18.863288,-98.909153
+Planter,Semeato,4CPP,P909318,Random Company J,DEL. ALVARO OBREGON,18.864628,-98.913403
+Planter,Almaco,HDGD,P659871,Random Company D,DEL. ALVARO OBREGON,18.863478,-98.913683
+Planter,HEGE,HEGE,P634494,Random Company J,DEL. ALVARO OBREGON,18.869468,-98.908353
+Planter,HEGE,HEGE,P919441,Random Company E,DEL. ALVARO OBREGON,18.864838,-98.910623
+APL,Almaco,R12,A966881,Random Company E,DEL. ALVARO OBREGON,18.862978,-98.910583
+Planter,HEGE,HEGE,P743052,Random Company B,DEL. ALVARO OBREGON,18.861838,-98.908523
+Planter,Almaco,HDGD,P433703,Random Company G,DEL. ALVARO OBREGON,18.869278,-98.907223
+Thresher,Almaco,SES,T138262,Random Company E,DEL. ALVARO OBREGON,18.867228,-98.912753
+APL,Almaco,SEEDBOSS,A746510,Random Company B,DEL. ALVARO OBREGON,18.863168,-98.906743
+Thresher,Almaco,SBT,T706045,Random Company A,DEL. ALVARO OBREGON,18.868568,-98.912333
+Planter,Semeato,4CPP,P427630,Random Company C,DEL. ALVARO OBREGON,18.864268,-98.906143
+Combine,Mecamáquina,CR5080,C381529,Random Company B,DEL. ALVARO OBREGON,18.868898,-98.906423
+Thresher,Almaco,SES,T160127,Random Company G,DEL. ALVARO OBREGON,18.866398,-98.914293
+Combine,Almaco,SPC40,C626161,Random Company F,DEL. ALVARO OBREGON,18.863048,-98.909193
+APL,Almaco,R12,A987192,Random Company E,DEL. ALVARO OBREGON,18.864808,-98.910653
+PLN,Almaco,HPP,P225087,Random Company E,DEL. ALVARO OBREGON,18.866568,-98.906793
+Thresher,Almaco,SES,T269609,Random Company D,DEL. ALVARO OBREGON,18.866718,-98.908163
+Thresher,Almaco,SBT,T725491,Random Company H,DEL. ALVARO OBREGON,18.860638,-98.907883
+Thresher,Almaco,ECS,T324208,Random Company A,DEL. ALVARO OBREGON,18.864158,-98.905203
+Thresher,Almaco,SES,T452719,Random Company I,DEL. ALVARO OBREGON,18.860888,-98.913113
+Thresher,Almaco,SES,T432259,Random Company A,DEL. ALVARO OBREGON,18.865478,-98.907793
+Combine,Almaco,SPC40,C861633,Random Company J,DEL. ALVARO OBREGON,18.863668,-98.911973
+Planter,HEGE,HEGE,P398427,Random Company C,DEL. ALVARO OBREGON,18.861778,-98.913693
+Planter,HEGE,HEGE,P872911,Random Company I,DEL. ALVARO OBREGON,18.868198,-98.910943
+Planter,Semeato,4CPP,P944526,Random Company D,DEL. ALVARO OBREGON,18.870218,-98.905353
+Planter,HEGE,HEGE,P072028,Random Company B,DEL. ALVARO OBREGON,18.868808,-98.913713
+Thresher,Almaco,SBT,T627987,Random Company A,DEL. ALVARO OBREGON,18.863468,-98.907523
+Thresher,Almaco,SES,T328988,Random Company H,DEL. ALVARO OBREGON,18.863648,-98.906423
+Thresher,Almaco,SES,T990973,Random Company I,DEL. ALVARO OBREGON,18.860598,-98.911913
+Combine,Mecamáquina,CR5080,C710276,Random Company J,DEL. ALVARO OBREGON,18.868078,-98.910813
+Thresher,Almaco,ECS,T270068,Random Company G,DEL. ALVARO OBREGON,18.861548,-98.905883
+APL,Almaco,R12,A397634,Random Company E,DEL. ALVARO OBREGON,18.869338,-98.908923
+Planter,HEGE,HEGE,P658138,Random Company C,DEL. ALVARO OBREGON,18.863548,-98.914043
+PLN,Almaco,HPP,P991586,Random Company E,DEL. ALVARO OBREGON,18.867028,-98.906503
+Planter,Semeato,4CPP,P263393,Random Company H,DEL. ALVARO OBREGON,18.864758,-98.906623
+APL,Almaco,SEEDBOSS,A585527,Random Company A,DEL. ALVARO OBREGON,18.865788,-98.911173
+Thresher,Almaco,ECS,T717102,Random Company C,GUADALAJARA,20.660829,-103.343239
+Thresher,Almaco,ECS,T980654,Random Company B,SAO PAULO,-23.54799,-46.631599
+Planter,Semeato,4CPP,P823178,Random Company A,ARAURE,95.577165,-69.218613
+Planter,HEGE,HEGE,P893722,Random Company B,BUENOS AIRES,-34.678271,-58.491613
+Combine,WinterSteiger,Classsic,C630571,Random Company G,BUENOS AIRES,-34.680531,-58.484843
+Planter,HEGE,HEGE,P067989,Random Company F,BUENOS AIRES,-34.681491,-58.486583
+APL,Almaco,R12,A554755,Random Company J,BUENOS AIRES,-34.680651,-58.488203
+APL,Almaco,R12,A744108,Random Company J,BUENOS AIRES,-34.680871,-58.490623
+PLN,Almaco,HPP,P657834,Random Company D,BUENOS AIRES,-34.685071,-58.488403
+Combine,Mecamáquina,CR5080,C280418,Random Company E,BUENOS AIRES,-34.683531,-58.490483
+Planter,Semeato,4CPP,P786284,Random Company G,BUENOS AIRES,-34.680641,-58.487233
+Planter,HEGE,HEGE,P738804,Random Company A,BUENOS AIRES,-34.684771,-58.489213
+Combine,WinterSteiger,Classsic,C208909,Random Company D,BUENOS AIRES,-34.676631,-58.490943
+Thresher,Almaco,SES,T964106,Random Company J,BUENOS AIRES,-34.678981,-58.486633
+Thresher,Almaco,ECS,T355161,Random Company C,SAN NICOLAS DE LOS,25.729542,-100.304848
+Combine,Almaco,SPC40,C491387,Random Company G,"Alto Gracas, MT",-16.838809,-53.834279
+Planter,Almaco,HDGD,P279081,Random Company E,GRANEROS,-34.051447,-70.732056
+Thresher,Almaco,ECS,T016213,Random Company D,GRANEROS,-34.045117,-70.732776
+APL,Almaco,R12,A096726,Random Company J,GRANEROS,-34.053767,-70.739606
+Planter,Almaco,HDGD,P606376,Random Company I,GRANEROS,-34.046287,-70.734356
+Thresher,Almaco,SBT,T281847,Random Company J,GRANEROS,-34.049847,-70.735846
+Combine,Almaco,SPC40,C958130,Random Company D,GRANEROS,-34.046407,-70.733246
+APL,Almaco,R12,A165077,Random Company D,GRANEROS,-34.048857,-70.732106
+Combine,WinterSteiger,Classsic,C773250,Random Company H,GRANEROS,-34.051527,-70.738556
+Combine,WinterSteiger,Classsic,C062876,Random Company J,GRANEROS,-34.050067,-70.730816

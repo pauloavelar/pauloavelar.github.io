@@ -1,0 +1,27 @@
+{
+	"markerFields": ["1", "2"],
+	"filters": [
+		{
+			"field": 0,
+			"accept": [
+				"BAYER CROP SCIENCES - ARGENTINA",
+				"BAYER CROP SCIENCES - BRAZIL",
+				"Bayer"
+			]
+		},
+		{
+			"field": 1,
+			"accept": [
+				"BUENOS AIRES"
+			]
+		},
+		{
+			"field": 8,
+			"accept": [
+				"ALMACO",
+				"Semeato",
+				"WinterSteiger"
+			]
+		}
+	]
+}

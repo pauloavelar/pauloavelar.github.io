@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html ng-app="MapViewer">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AgMaps Viewer</title>
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="favicon.png">    
+    <link rel="shortcut icon" href="favicon.ico" />
+
+    <!-- CSS rules -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/select2.css">
+    <link rel="stylesheet" href="css/select2-bootstrap.css">
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/MarkerCluster.css">
+    <link rel="stylesheet" href="css/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Scripts (in plugins: InjectCSS, ScrollTo and Number Format)-->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.plugins.js"></script>
+    <script type="text/javascript" src="js/select2.min.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/leaflet.js"></script>
+    <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
+    <script type="text/javascript" src="js/papaparse.min.js"></script>
+
+    <!-- Modules: all modules use dynamic modularization pattern -->
+    <!-- http://codeproject.com/Articles/247241/Javascript-Module-Pattern -->
+    <script type="text/javascript" src="js/modules/Strings.js"></script>
+    <script type="text/javascript" src="js/modules/View.js"></script>
+    <script type="text/javascript" src="js/modules/FileLoader.js"></script>
+    <script type="text/javascript" src="js/modules/MapManager.js"></script>
+    <script type="text/javascript" src="js/modules/Utils.js"></script>
+    <!-- Below: FilterPanelFactory, LegendItemFactory -->
+    <script type="text/javascript" src="js/modules/Factories.js"></script>
+
+  </head>
+  <body onload="View.init()" ng-controller="MapController">
+
+    <div id="loading" class="text-center">
+      <div>
+        <div class="cssload-loader"></div>
+      </div>
+    </div>
+
+    <div id="filters-modal" class="modal fade" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">
+              <span class="glyphicon glyphicon-map-marker"></span> {{ lang.openFileModalTitle }}
+            </h4>
+          </div>
+          <div class="modal-body">
+            <div id="error-panel" class="alert alert-danger hidden">
+              <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+              <span class="sr-only">{{ lang.error }}</span>
+              <span id="error-message"></span>.
+            </div>
+            <div id="panel-progress" class="panel panel-default">
+              <div class="panel-heading">{{ lang.loadingDatabase }}&hellip;</div>
+              <div class="panel-body">
+                <div class="progress progress-striped active">
+                  <div class="progress-bar"  role="progressbar" aria-valuenow="100"
+                       aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">{{ lang.markerFieldTitle }}</div>
+              <div class="panel-body">
+                <select id="marker-select-1" class="marker-select form-control">
+                  <option value="(NONE)">{{ lang.noFieldSelected }}</option>
+                </select>
+                <select id="marker-select-2" class="marker-select form-control">
+                  <option value="(NONE)">{{ lang.noFieldSelected }}</option>
+                </select>
+              </div>
+            </div>
+            <div class="panel-group" id="filters" role="tablist" aria-multiselectable="true">
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" id="btn-modal-cancel"
+                    data-dismiss="modal">{{ lang.btnCancel }}</button>
+            <button type="button" class="btn btn-primary disabled"
+                    id="btn-modal-load">{{ lang.btnLoadIntoMap }}</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <nav id="navbar" class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" aria-expanded="false"
+                  data-target="#container-open" class="navbar-toggle collapsed">
+            <span class="sr-only">{{ lang.hintMoreOptions }}</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <img class="navbar-brand" alt="AgMaps" src="img/logo.png" />
+          <span class="navbar-brand">{{ lang.appName }}</span>
+        </div>
+        <div class="collapse navbar-collapse" id="container-open">
+          <div class="navbar-form navbar-right">
+            <button type="button" id="btn-change-filters"
+                    class="btn btn-default" aria-expanded="false">
+              <span class="glyphicon glyphicon-open-file" aria-hidden="true">
+              </span> {{ lang.btnChangeFilters }}&hellip;
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div id="main">
+      <div id="legend" class="panel panel-default hidden">
+        <div class="panel-heading">
+          {{ lang.legendTitle }}
+          <span id="expander" class="glyphicon glyphicon-chevron-up"></span>
+        </div>
+        <div class="panel-body"></div>
+      </div>
+      <div id="map"> </div>
+    </div>
+
+    <script src="ng/app.js"></script>
+
+  </body>
+</html>
